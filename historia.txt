@@ -1,6 +1,8 @@
 Esta es la historai de Giovanni Morante
 
 Giovanni Morante tiene 27 años y nacio en Perú.
-viviendo en todo el mundo
+viviendo en todo el mundo 
+
+probando git commit -a
 
 Mañana nos enfocaremos en su vida laboral.
